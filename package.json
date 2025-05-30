@@ -1,0 +1,18 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Project With Liquid",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "pnpm gh-pages -d dist/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "liquidjs": "10.21.1"
+  },
+  "devDependencies": {
+    "gh-pages": "6.3.0"
+  }
+}
